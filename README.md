@@ -1,2 +1,2 @@
 # finalProjectLog8415
-Fully automated website deployment tool
+LOG8415 (Advanced Concepts Of Cloud Computing) final project : Fully automated website deployment tool (Polytechnique Montreal)
