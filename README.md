@@ -3,7 +3,7 @@ LOG8415 (Advanced Concepts Of Cloud Computing) final project : Fully automated w
 
 ## Run the default scenario (with provided website) 
 
-To run the deployment tool, please install Python 3.  Then run the followingcommands to install dependencies:
+To run the deployment tool, please install Python 3.  Then run the following commands to install dependencies:
 ```
   $ pip install boto3
   $ pip install paramiko
@@ -17,4 +17,4 @@ Then download and extract the ZIP file containing the code,  or clone this repos
 
 ```
 
-The website will be deployed on AWS 
+The website will be deployed on AWS !
