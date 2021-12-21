@@ -9,7 +9,7 @@ To run the deployment tool, please install Python 3.  Then run the following com
   $ pip install paramiko
   $ pip install scp
 ```
-Then download and extract the ZIP file containing the code,  or clone this repository. Next configure all the variables, at the top of the file deploy.py.  Once it is done, simply run (change path_to_deploy.py file by the path of the file):
+Then download and extract the ZIP file containing the code,  or clone this repository. Next configure all the variables, at the top of the file deploy.py. Before running the script, do not forget to update your AWS credentials, in order for Boto3 to work ! Once it is done, simply run (change path_to_deploy.py file by the path of the file):
 
 ```
   $ cd path_to_deploy.py_file
